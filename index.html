@@ -841,5 +841,36 @@
     target.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }, true);
 </script>
+<style>
+  /* Responsiveness fixes (issue #7) */
+
+  /* NYC project card: stack the heading and button so they never overlap */
+  #comp-mt8mj4uf .comp-mt8mj4uf-container {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+  }
+  #comp-mt8mj4um,
+  #comp-mt8mnbi7 {
+    margin: 0 !important;
+    align-self: center !important;
+  }
+
+  /* Phones and small tablets: keep the tool logos clear of the CV button */
+  @media (max-width: 750px) {
+    #comp-mta57cet {
+      align-self: start !important;
+      margin-top: 110px !important;
+      margin-bottom: 100px !important;
+    }
+    #comp-mta4ne1p {
+      align-self: end !important;
+      margin-top: 0 !important;
+      margin-bottom: 40px !important;
+    }
+  }
+</style>
 </body>
 </html>
