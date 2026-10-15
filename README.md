@@ -1,7 +1,7 @@
 # Personal-Branding-Website
 This repo will include my personal website which showcases my skills and experience to employers/recruiters in the hopes of landing an interview.
 
-**ADD THE GIHUB PAGES LINK HERE** e.g. Visit my portfolio: https... or Visit my personal website: https ...
+**https://datalyte.github.io/Personal-Branding-Website/**
 
 **What is this project?**
 
