@@ -221,14 +221,6 @@ Additional enhancements have been identified to improve navigation, visual prese
 
 These improvements are documented in the [Future Improvements](#future-improvements) section.
 
-### Website Access
-
-**Visit the live website:**
-
-[Arjun Pereira | Data Analyst Portfolio](https://arjunpereira12.wixstudio.com/arjun-portfolio)
-
-**GitHub Pages:** To be added if a GitHub Pages version is published.
-
 ---
 
 ## About This Repository
