@@ -4,7 +4,7 @@
 
 This repository contains my personal website project, which showcases my skills, professional experience, projects and achievements to potential employers and recruiters, with the primary goal of securing interviews and professional opportunities.
 
-**Live Website:** [Visit My Portfolio](https://https://datalyte.github.io/Personal-Branding-Website)
+**Live Website:** [Visit My Portfolio](https://datalyte.github.io/Personal-Branding-Website)
 
 ---
 
